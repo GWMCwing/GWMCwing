@@ -36,17 +36,17 @@
     </ul>
   </details>
 
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img align="center" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/express" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/android" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/discord" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/typescript" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/python" /></a>
+<a><img align="center" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/express" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/android" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/discord" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/docker" /></a>
 
 ## What I am doing (except coding)
 
