@@ -6,7 +6,7 @@
 ![Programmer](https://img.shields.io/badge/Programmer-C%2B%2B%2C%20TS%2C%20Py-blue?logo=Cplusplus&amp;style=plastic)
 ![Photographer: Bird, Landscape, Astro](https://img.shields.io/badge/Photographer-Bird%2C%20Landscape%2C%20Astro-brightgreen?style=plastic)
 
-![Seeking Internship](https://img.shields.io/badge/Seeking-Intership-red?style=plastic)
+![Seeking Internship](https://img.shields.io/badge/Seeking-Internship-red?style=plastic)
 ![Cat Lover](https://img.shields.io/badge/Cat-Cat%20Lover-blue?style=plastic)
 
 ## About Coding
@@ -32,8 +32,21 @@
         <li> <b>Typescript</b> (2020)</li>
         <li> <b>Mongodb</b> with node.js (2020)</li>
         <li> <b>Java</b> with <b>Game Mod</b> development (2020) </li>
+        <li> <b>MIPS</b>(2022) </li>
     </ul>
   </details>
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/express" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/android" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 
 ## What I am doing (except coding)
 
@@ -99,7 +112,7 @@ Some of the Projects have achieved its goal, and some will be replaced and redev
     </ul>
 </details>
 <details >
-    <summary><a href="https://github.com/GWMCwing/NEAT-CPP">CPP/p5.js, NEAT implementation on website</a></summary>
+    <summary><a href="https://github.com/GWMCwing/NEAT-CPP">C++/p5.js, NEAT implementation on website</a></summary>
     <ul>
         <li> This is a self-directed learning project to replicate NEAT algorithm. Inspired by <a href="https://thecodingtrain.com">Daniel Shiffman, The Coding Train</a></li>
         <li> This project fails as the lack of knowledge in topology when handling offspring and mutation</li>
@@ -107,9 +120,17 @@ Some of the Projects have achieved its goal, and some will be replaced and redev
     </ul>
 </details>
 <details>
+    <summary>Java, File syncs between multiple pc and android</summary>
+    <ul>
+        <li> A code to learn project, for help syncing multiple directory between multiple device</li>
+        <li> This project is discontinued as the I currently don't own a domain name for secure protocols</li>
+        <li> This is project will be redeveloped in near future</li>
+    </ul>
+</details>
+<details>
     <summary>p5.js, Flocking simulation</summary>
     <ul>
-        <li> A code to learn project during. Inspired by <a href="https://thecodingtrain.com">Daniel Shiffman, The Coding Train</a></li>
+        <li> A code to learn project. Inspired by <a href="https://thecodingtrain.com">Daniel Shiffman, The Coding Train</a></li>
         <li> This project is discontinued as it has successfully achieved the goal of learning</li>
         <li> This is project will be included in Home-Server repo in the near future, with optimization on neighbor checking and more</li>
     </ul>
@@ -117,7 +138,6 @@ Some of the Projects have achieved its goal, and some will be replaced and redev
 <details>
     <summary>And many other simulations that are not pushed to github</summary>
 </details>
-
 
 ## Other Info About Me
 
