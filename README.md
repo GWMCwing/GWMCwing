@@ -53,8 +53,9 @@
     <summary><a href="https://github.com/GWMCwing/Home-Server">💻Home Server</a></summary>
     <ul>
         <li><img src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgwmc.duckdns.org"></li>
-        <li>A web server that serves as a learning platform for me to learn about web development, especially backend development.</li>
+        <li>A web server that serves as a code to learn platform for me to learn about web development, especially backend development.</li>
         <li> It is based on express, websocket, mongodb, typescript etc.</li>
+        <li> A wrapper for websocket to support URI path is implemented</li>
         <li> Future support for react is on the list.</li>
         <li><a href="https://gwmc.duckdns.org">Link To Webpage</a></li>
     </ul>
