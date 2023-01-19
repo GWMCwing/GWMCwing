@@ -36,17 +36,17 @@
     </ul>
   </details>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/express" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/android" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/python" />
+<img align="center" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/express" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/android" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/discord" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+<img align="center" height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 
 ## What I am doing (except coding)
 
