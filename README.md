@@ -166,7 +166,7 @@ Some of the Projects have achieved its goal, and some will be replaced and redev
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GWMCwing&show_icons=true&count_private=true&hide_title=true&theme=transparent" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GWMCwing&layout=compact&theme=transparent&hide=html&langs_count=10" />
 </a>
 
