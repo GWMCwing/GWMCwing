@@ -63,7 +63,7 @@
 ## Projects Currently Working on
 
 <details>
-    <summary><a href="https://github.com/GWMCwing/Home-Server">💻Home Server</a></summary>
+    <summary><a href="https://github.com/GWMCwing/Home-Server">💻 Home Server</a></summary>
     <ul>
         <li><img src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgwmc.duckdns.org"></li>
         <li>A web server that serves as a code to learn platform for me to learn about web development, especially backend development.</li>
@@ -74,7 +74,7 @@
     </ul>
 </details>
 <details>
-    <summary><a href="https://github.com/GWMCwing/Home-Server">📃Timetable Planner for University Courses in Hong Kong</a></summary>
+    <summary><a href="https://github.com/GWMCwing/Home-Server">📃 Timetable Planner for University Courses in Hong Kong</a></summary>
     <ul>
         <li> A web based planner that helps students to plan their timetable for university courses.</li>
         <li> Fetches data from the respective university's website and stores it in the database, and provide to the user for planning with UI, and auto planner</li>
@@ -84,7 +84,15 @@
     </ul>
 </details>
 <details>
-    <summary><a href="https://github.com/GWMCwing/discord-ustquotatracker">🖲️HKUST Course Quota Tracker </a></summary>
+    <summary><a href="https://github.com/GWMCwing/ML-From-Scratch">🤖 Machine Learning from Scratch</a></summary>
+    <ul>
+        <li> A training repo for implementing Machine Learning models with different languages from scratch using only numeric libraries.</li>
+        <li> Languages included: Python, Typescript/Javascript, C++ </li>
+    </ul>
+</details>
+
+<details>
+    <summary><a href="https://github.com/GWMCwing/discord-ustquotatracker">🖲️ HKUST Course Quota Tracker </a></summary>
     <ul>
         <li> A notifier that notifies user when a course quota is changed or new course is added during enrollment period</li>
         <li> It is based on discord as notifier with nodejs and mongodb as backend</li>
