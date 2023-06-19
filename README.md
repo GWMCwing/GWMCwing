@@ -63,6 +63,14 @@
 ## Projects Currently Working on
 
 <details>
+    <summary><a href="https://github.com/GWMCwing/NEAT-CPP-PY">🤖 NEAT Algorithm in C++</a></summary>
+    <ul>
+        <li> Implement genetic alogirthm, NEAT ,using pure C++ with Python C extension using shared library</li>
+        <li> This project focuses on implmenting NEAT using pure C++ for faster evaluation than pure python, while supporting usage in python via shared library</li>
+    </ul>
+</details>
+
+<details>
     <summary><a href="https://github.com/GWMCwing/Home-Server">💻 Home Server</a></summary>
     <ul>
         <li><img src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgwmc.duckdns.org"></li>
@@ -73,6 +81,7 @@
         <li><a href="https://gwmc.duckdns.org">Link To Webpage</a></li>
     </ul>
 </details>
+
 <details>
     <summary><a href="https://github.com/GWMCwing/Home-Server">📃 Timetable Planner for University Courses in Hong Kong</a></summary>
     <ul>
@@ -83,6 +92,7 @@
         <li><a href="https://gwmc.duckdns.org/school/timetable">Link To Planner</a></li>
     </ul>
 </details>
+
 <details>
     <summary><a href="https://github.com/GWMCwing/ML-From-Scratch">🤖 Machine Learning from Scratch</a></summary>
     <ul>
@@ -99,15 +109,8 @@
         <li><a href="https://discord.gg/HckMYE3r7f">Link To Tracker</a></li>
     </ul>
 </details>
-<details>
-    <summary><a href="https://github.com/GWMCwing/Tuning">🤖 Discord Music Bot - Tuning</a></summary>
-    <ul>
-        <li> A little project for playing music via discord.js</li>
-        <li> This project is not in active development due to updates on discord api standard</li>
-    </ul>
-</details>
 
-## Discontinued/Failed Projects
+## Discontinued Projects
 
 Some of the Projects have achieved its goal, and some will be replaced and redeveloped in a new repo in near future.
 
@@ -125,6 +128,13 @@ Some of the Projects have achieved its goal, and some will be replaced and redev
         <li> This is a self-directed learning project to replicate NEAT algorithm. Inspired by <a href="https://thecodingtrain.com">Daniel Shiffman, The Coding Train</a></li>
         <li> This project fails as the lack of knowledge in topology when handling offspring and mutation</li>
         <li> This project is expected to be replaced by and developed in another repo in the near future, when I have learnt the fundamentals in COMP3711</li>
+    </ul>
+</details>
+<details>
+    <summary><a href="https://github.com/GWMCwing/Tuning">🤖 Discord Music Bot - Tuning</a></summary>
+    <ul>
+        <li> A little project for playing music via discord.js</li>
+        <li> This project is not in active development due to updates on discord api standard</li>
     </ul>
 </details>
 <details>
