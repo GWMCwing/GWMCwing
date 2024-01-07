@@ -63,41 +63,18 @@
 ## Projects Currently Working on
 
 <details>
+    <summary><a href="https://github.com/GWMCwing/langchain-poc">🔗 LangChain-POC</a></summary>
+    <ul>
+        <li> A proof of concept repo for deploying a dynamically loaded LLM models and sources for LangChain with web user interface.</li>
+        <li> Languages included: Typescript/Javascript </li>
+    </ul>
+</details>
+
+<details>
     <summary><a href="https://github.com/GWMCwing/NEAT-CPP-PY">🤖 NEAT Algorithm in C++</a></summary>
     <ul>
         <li> Implement genetic alogirthm, NEAT ,using pure C++ with Python C extension using shared library</li>
         <li> This project focuses on implmenting NEAT using pure C++ for faster evaluation than pure python, while supporting usage in python via shared library</li>
-    </ul>
-</details>
-
-<details>
-    <summary><a href="https://github.com/GWMCwing/Home-Server">💻 Home Server</a></summary>
-    <ul>
-        <li><img src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgwmc.duckdns.org"></li>
-        <li>A web server that serves as a code to learn platform for me to learn about web development, especially backend development.</li>
-        <li> It is based on express, websocket, mongodb, typescript etc.</li>
-        <li> A wrapper for websocket to support URI path is implemented</li>
-        <li> Future support for react is on the list.</li>
-        <li><a href="https://gwmc.duckdns.org">Link To Webpage</a></li>
-    </ul>
-</details>
-
-<details>
-    <summary><a href="https://github.com/GWMCwing/Home-Server">📃 Timetable Planner for University Courses in Hong Kong</a></summary>
-    <ul>
-        <li> A web based planner that helps students to plan their timetable for university courses.</li>
-        <li> Fetches data from the respective university's website and stores it in the database, and provide to the user for planning with UI, and auto planner</li>
-        <li> It is a part of the Home Server Repository</li>
-        <li> It is underdevelopment on the frontend</li>
-        <li><a href="https://gwmc.duckdns.org/school/timetable">Link To Planner</a></li>
-    </ul>
-</details>
-
-<details>
-    <summary><a href="https://github.com/GWMCwing/ML-From-Scratch">🤖 Machine Learning from Scratch</a></summary>
-    <ul>
-        <li> A training repo for implementing Machine Learning models with different languages from scratch using only numeric libraries.</li>
-        <li> Languages included: Python, Typescript/Javascript, C++ </li>
     </ul>
 </details>
 
@@ -114,6 +91,14 @@
 
 Some of the Projects have achieved its goal, and some will be replaced and redeveloped in a new repo in near future.
 
+<details>
+    <summary><a href="https://github.com/GWMCwing/ML-From-Scratch">🤖 Machine Learning from Scratch</a></summary>
+    <ul>
+        <li> A training repo for implementing Machine Learning models with different languages from scratch using only numeric libraries.</li>
+        <li> This project is discontinued as the goal has been achieved</li>
+        <li> Languages included: Python, Typescript/Javascript, C++ </li>
+    </ul>
+</details>
 <details >
     <summary><a href="https://github.com/GWMCwing/Neural-network">C++/p5.js, Basic Machine Learning with Backpropagation</a></summary>
     <ul>
@@ -138,23 +123,18 @@ Some of the Projects have achieved its goal, and some will be replaced and redev
     </ul>
 </details>
 <details>
-    <summary>Java, File syncs between multiple pc and android</summary>
+    <summary><a href="https://github.com/GWMCwing/Home-Server">💻 Home Server</a></summary>
     <ul>
-        <li> A code to learn project, for help syncing multiple directory between multiple device</li>
-        <li> This project is discontinued as the I currently don't own a domain name for secure protocols</li>
-        <li> This is project will be redeveloped in near future</li>
+        <li><img src="https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgwmc.duckdns.org"></li>
+        <li>A web server that serves as a code to learn platform for me to learn about web development, especially backend development.</li>
+        <li> It is based on express, websocket, mongodb, typescript etc.</li>
+        <li> A wrapper for websocket to support URI path is implemented</li>
+        <li> Future support for react is on the list.</li>
+        <li><a href="https://gwmc.duckdns.org">Link To Webpage</a></li>
     </ul>
 </details>
 <details>
-    <summary>p5.js, Flocking simulation</summary>
-    <ul>
-        <li> A code to learn project. Inspired by <a href="https://thecodingtrain.com">Daniel Shiffman, The Coding Train</a></li>
-        <li> This project is discontinued as it has successfully achieved the goal of learning</li>
-        <li> This is project will be included in Home-Server repo in the near future, with optimization on neighbor checking and more</li>
-    </ul>
-</details>
-<details>
-    <summary>And many other simulations that are not pushed to github</summary>
+    <summary>And many other web developments that are not pushed to github</summary>
 </details>
 
 ## Other Info About Me
