@@ -41,24 +41,20 @@
 <a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" /></a>
 <a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/python" /></a>
 <a><img align="center" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /></a>
-<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/express" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/php" /></a>
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/postgresql" /></a>
 <a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></a>
-<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/android" /></a>
-<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/discord" /></a>
 <a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /></a>
 <a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/docker" /></a>
-
-## What I am doing (except coding)
-
-- 📷 Taking photos of birds, landscapes and astrophotography with my R7
-- 🖼️ Learning to draw anime with Clip Studio Paint
-- 🈁 Going to learn Japanese in the future
+<a><img align="center" height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" /></a>
 
 ## Company Working Experience (Computer Science)
 
-- Unfortunately, I have not had any working experience in a company yet
-- I am currently seeking for internship opportunities in the summer of 2023
-- In my free time I am learning web development and backend development, see the projects below~
+- Untilblank E-commerce webpage
+  - Integration with PayMe and Stripe payment
+  - Both frontend (Next.js) with backend (Express.js) development
+- HKT
+  - Programming Intern
 
 ## Projects Currently Working on
 
